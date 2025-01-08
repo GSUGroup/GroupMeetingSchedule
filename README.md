@@ -23,5 +23,5 @@ Please update your presentation information with the following format.
 | 2025-3-28  | Zhuoyu Yao    | -     | -      |
 | 2025-4-04  | Junyu Mai     | -     | -      |
 | 2025-4-11  | Ziyang Wei    | -     | -      |
-| 2025-4-18  |Feng Jiang & Xiangdong Hu| -     | -      |
-
+| 2025-4-18  | Feng Jiang    | -     | -      |
+| 2025-4-25  | Xiangdong Hu  | -     | -      |
