@@ -1,6 +1,6 @@
 # Group Seminar – Spring 2025
 
- **Date**: Jan 17 to Apr 18
+ **Date**: Jan 17 to Apr 25
  
  **Time**: 12:00 PM to 1:30 PM, Friday
  
