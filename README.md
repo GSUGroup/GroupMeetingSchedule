@@ -14,9 +14,9 @@ Please update your presentation information with the following format.
 | 2025-1-24  | Haijing Zhang | -     | -      |
 | 2025-1-31  | Zhiguo Liu    | -     | -      |
 | 2025-2-07  | Dong Yang     | -     | -      |
-| 2025-2-14  | Zhuoyu Yao    | -     | -      |
+| 2025-2-14  | Ziyang Wei    | -     | -      |
 | 2025-2-21  | Junyu Mai     | -     | -      |
-| 2025-2-28  | Ziyang Wei    | -     | -      |
+| 2025-2-28  | Zhuoyu Yao    | -     | -      |
 | 2025-3-07  | Haijing Zhang | -     | -      |
 | 2025-3-14  | Zhiguo Liu    | -     | -      |
 | 2025-3-21  | Spring Break  | -     | -      |
