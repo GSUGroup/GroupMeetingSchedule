@@ -12,7 +12,7 @@ Please update your presentation information with the following format.
 |------------|---------------|-------|--------|
 | 2025-1-17  | Dong Yang     | -     | [Link](https://github.com/GSUGroup/GroupMeetingSchedule/blob/main/Slides/DongYang/Radio%20Map%20Estimation_GroupMeeting_20250117.pptx)|
 | 2025-1-24  | Haijing Zhang | -     | [Link](https://github.com/GSUGroup/GroupMeetingSchedule/tree/main/Slides/Haijing%20Zhang)|
-| 2025-1-31  | Zhiguo Liu    | -     | -      |
+| 2025-1-31  | Zhiguo Liu    | -     | [Link](https://github.com/GSUGroup/GroupMeetingSchedule/tree/main/Slides/Zhiguo%20Liu)|
 | 2025-2-07  | Dong Yang     | -     | -      |
 | 2025-2-14  | Ziyang Wei    | -     | -      |
 | 2025-2-21  | Junyu Mai     | -     | -      |
