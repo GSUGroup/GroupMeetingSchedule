@@ -16,7 +16,7 @@ Please update your presentation information with the following format.
 | 2025-2-07  | Junyu Mai     | -     | [Link](https://github.com/GSUGroup/GroupMeetingSchedule/tree/main/Slides/Junyu%20Mai)|
 | 2025-2-14  |  -   | -     | -      |
 | 2025-2-21  | Ziyang Wei    | -     | -      |
-| 2025-2-28  | Dong Yang     | -     | -      |
+| 2025-2-28  | Feng Jiang    | -     | -      |
 | 2025-3-07  | Zhuoyu Yao    | -     | -      |
 | 2025-3-14  | Haijing Zhang | -     | -      |
 | 2025-3-21  | Zhiguo Liu    | -     | -      |
@@ -24,5 +24,5 @@ Please update your presentation information with the following format.
 | 2025-4-04  | Zhuoyu Yao    | -     | -      |
 | 2025-4-11  | Junyu Mai     | -     | -      |
 | 2025-4-18  | Ziyang Wei    | -     | -      |
-| 2025-4-25  | Feng Jiang    | -     | -      |
+| 2025-4-25  | Dong Yang     | -     | -      |
 
