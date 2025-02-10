@@ -14,14 +14,15 @@ Please update your presentation information with the following format.
 | 2025-1-24  | Haijing Zhang | -     | [Link](https://github.com/GSUGroup/GroupMeetingSchedule/tree/main/Slides/Haijing%20Zhang)|
 | 2025-1-31  | Zhiguo Liu    | -     | [Link](https://github.com/GSUGroup/GroupMeetingSchedule/tree/main/Slides/Zhiguo%20Liu)|
 | 2025-2-07  | Junyu Mai     | -     | [Link](https://github.com/GSUGroup/GroupMeetingSchedule/tree/main/Slides/Junyu%20Mai)|
-| 2025-2-14  | Ziyang Wei    | -     | -      |
-| 2025-2-21  | Dong Yang     | -     | -      |
-| 2025-2-28  | Zhuoyu Yao    | -     | -      |
-| 2025-3-07  | Haijing Zhang | -     | -      |
-| 2025-3-14  | Zhiguo Liu    | -     | -      |
-| 2025-3-21  | Spring Break  | -     | -      |
-| 2025-3-28  | Zhuoyu Yao    | -     | -      |
-| 2025-4-04  | Junyu Mai     | -     | -      |
-| 2025-4-11  | Ziyang Wei    | -     | -      |
-| 2025-4-18  | Feng Jiang    | -     | -      |
-| 2025-4-25  | Xiangdong Hu  | -     | -      |
+| 2025-2-14  |  -   | -     | -      |
+| 2025-2-21  | Ziyang Wei    | -     | -      |
+| 2025-2-28  | Dong Yang     | -     | -      |
+| 2025-3-07  | Zhuoyu Yao    | -     | -      |
+| 2025-3-14  | Haijing Zhang | -     | -      |
+| 2025-3-21  | Zhiguo Liu    | -     | -      |
+| 2025-3-28  | Spring Break  | -     | -      |
+| 2025-4-04  | Zhuoyu Yao    | -     | -      |
+| 2025-4-11  | Junyu Mai     | -     | -      |
+| 2025-4-18  | Ziyang Wei    | -     | -      |
+| 2025-4-25  | Feng Jiang    | -     | -      |
+
