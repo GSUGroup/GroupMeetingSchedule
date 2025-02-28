@@ -16,7 +16,7 @@ Please update your presentation information with the following format.
 | 2025-2-07  | Junyu Mai     | -     | [Link](https://github.com/GSUGroup/GroupMeetingSchedule/tree/main/Slides/Junyu%20Mai)|
 | 2025-2-14  |  -   | -      | -     |
 | 2025-2-21  | Ziyang Wei    | -     | [Link](https://github.com/GSUGroup/GroupMeetingSchedule/blob/main/Slides/Ziyang%20Wei/Detecting%20Backdoor%20Attacks%20via%20Similarity%20in%20Semantic%20Communication%20Systems.pptx)      |
-| 2025-2-28  | Feng Jiang    | -     | -      |
+| 2025-2-28  | Feng Jiang    | -     | [Link](https://github.com/GSUGroup/GroupMeetingSchedule/blob/main/Slides/Feng%20Jiang/RAD.pptx)|
 | 2025-3-07  | Zhuoyu Yao    | -     | -      |
 | 2025-3-14  | Haijing Zhang | -     | -      |
 | 2025-3-21  | Zhiguo Liu    | -     | -      |
