@@ -19,8 +19,8 @@ Please update your presentation information with the following format.
 | 2025-2-28  | Feng Jiang    | Reinforcement Learning with Augmented Data | [Link](https://github.com/GSUGroup/GroupMeetingSchedule/blob/main/Slides/Feng%20Jiang/RAD.pptx)|
 | 2025-3-07  | Zhuoyu Yao    | -     | -      |
 | 2025-3-14  | Haijing Zhang | -     | -      |
-| 2025-3-21  | Zhiguo Liu    | -     | -      |
-| 2025-3-28  | Spring Break  | -     | -      |
+| 2025-3-21  | Spring Break  | -     | -      |
+| 2025-3-28  | Zhiguo Liu    | -     | -      |
 | 2025-4-04  | Dong Yang     | -     | -      |
 | 2025-4-11  | Junyu Mai     | -     | -      |
 | 2025-4-18  | Ziyang Wei    | -     | -      |
