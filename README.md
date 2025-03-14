@@ -18,7 +18,7 @@ Please update your presentation information with the following format.
 | 2025-2-21  | Ziyang Wei    | Detecting Backdoor Attacks via Similarity in Semantic Communication Systems | [Link](https://github.com/GSUGroup/GroupMeetingSchedule/blob/main/Slides/Ziyang%20Wei/Detecting%20Backdoor%20Attacks%20via%20Similarity%20in%20Semantic%20Communication%20Systems.pptx)      |
 | 2025-2-28  | Feng Jiang    | Reinforcement Learning with Augmented Data | [Link](https://github.com/GSUGroup/GroupMeetingSchedule/blob/main/Slides/Feng%20Jiang/RAD.pptx)|
 | 2025-3-07  | Zhuoyu Yao    | DSL-OTA: Distributed Swarm Learning with Over the Air Aggregation on Non-i.i.d. data| [Link](https://github.com/GSUGroup/GroupMeetingSchedule/blob/main/Slides/Zhuoyu%20Yao/Slide-0307_final.pptx)      |
-| 2025-3-14  | Haijing Zhang | -     | -      |
+| 2025-3-14  | Haijing Zhang |   Exploring the Equilibrium in a Game with AI   | [Link](https://github.com/GSUGroup/GroupMeetingSchedule/blob/main/Slides/Haijing%20Zhang/Exploring%20the%20Equilibrium%20%20in%20a%20Game%20with%20AI.pptx)      |
 | 2025-3-21  | Spring Break  | -     | -      |
 | 2025-3-28  | Zhiguo Liu    | -     | -      |
 | 2025-4-04  | Dong Yang     | -     | -      |
