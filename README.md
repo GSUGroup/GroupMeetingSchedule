@@ -22,7 +22,7 @@ Please update your presentation information with the following format.
 | 2025-3-21  | Spring Break  | -     | -      |
 | 2025-3-28  | Zhiguo Liu    | DexGrasp: Anything Towards Universal Robotic Dexterous Grasping with Physics Awareness     | [Link](https://github.com/GSUGroup/GroupMeetingSchedule/blob/main/Slides/Zhiguo%20Liu/DexGrasp%20Anything%20Towards%20Universal%20Robotic%20Dexterous%20Grasping%20with%20Physics%20Awareness.pdf)      |
 | 2025-4-04  | Dong Yang     | Federated Generative AI     | [Link](https://github.com/GSUGroup/GroupMeetingSchedule/blob/main/Slides/DongYang/Federated%20Generative%20AI.pptx)      |
-| 2025-4-11  | Junyu Mai     | -     | -      |
+| 2025-4-11  | Junyu Mai     | Dual-Purpose Knowledge Distillation- Lightweighting Large Language Models While Safeguarding Copyright Protection     | [Link](https://github.com/GSUGroup/GroupMeetingSchedule/upload/main/Slides/Junyu%20Mai)      |
 | 2025-4-18  | Ziyang Wei    | -     | -      |
 | 2025-4-25  | Zhuoyu Yao    | -     | -      |
 
