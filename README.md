@@ -23,6 +23,6 @@ Please update your presentation information with the following format.
 | 2025-3-28  | Zhiguo Liu    | DexGrasp: Anything Towards Universal Robotic Dexterous Grasping with Physics Awareness     | [Link](https://github.com/GSUGroup/GroupMeetingSchedule/blob/main/Slides/Zhiguo%20Liu/DexGrasp%20Anything%20Towards%20Universal%20Robotic%20Dexterous%20Grasping%20with%20Physics%20Awareness.pdf)      |
 | 2025-4-04  | Dong Yang     | Federated Generative AI     | [Link](https://github.com/GSUGroup/GroupMeetingSchedule/blob/main/Slides/DongYang/Federated%20Generative%20AI.pptx)      |
 | 2025-4-11  | Junyu Mai     | Dual-Purpose Knowledge Distillation- Lightweighting Large Language Models While Safeguarding Copyright Protection     | [Link](https://github.com/GSUGroup/GroupMeetingSchedule/blob/main/Slides/Junyu%20Mai/Dual-Purpose%20Knowledge%20Distillation-%20Lightweighting%20Large%20Language%20Models%20While%20Safeguarding%20Copyright%20Protection.pptx)      |
-| 2025-4-18  | Ziyang Wei    | -     | -      |
+| 2025-4-18  | Ziyang Wei    | Semantic Communication: Fundamentals, Challenges and Future Directions     | [Link](https://github.com/GSUGroup/GroupMeetingSchedule/blob/main/Slides/Ziyang%20Wei/Semantic%20Communication%20Fundamentals%2C%20Challenges%20and%20Future%20Directions.pptx)      |
 | 2025-4-25  | Zhuoyu Yao    | -     | -      |
 
